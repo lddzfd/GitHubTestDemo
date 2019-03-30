@@ -19,6 +19,9 @@
     
     [super viewDidLoad];
     NSLog(@"这是一个打印");
+    
+    
+    
 }
 
 - (void)ld_testGit
