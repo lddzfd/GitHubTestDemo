@@ -26,10 +26,7 @@
 - (void)zfdTest{
     
     
-   NSLog(@"9999999");
     NSLog(@"9999999");
-    
-    
-
+    NSLog(@"9999999");
 }
 @end
