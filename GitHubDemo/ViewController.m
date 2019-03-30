@@ -21,18 +21,9 @@
 
 - (void)ld_testGit
 {
-    
-    
-    
-    
-    
-    
-    
-    
     NSLog(@"%s",__func__);
-    
-    
-    
-    
+}
+- (void)zfdTest{
+   NSLog(@"9999999");
 }
 @end
