@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"用来测试版本回退...");
+    NSLog(@"回退了版本继续开发...");
 }
 
 /*
