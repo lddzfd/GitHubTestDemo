@@ -19,8 +19,9 @@
     // Do any additional setup after loading the view.
     NSLog(@"用来测试版本回退...");
     NSLog(@"第一次提交____V1.0.0");
-    NSLog(@"第一次提交____V1.0.0");
-    NSLog(@"第一次提交____V1.0.0");
+    NSLog(@"第二次提交____V2.0.0");
+    NSLog(@"第三次提交____V3.0.0");
+    
 }
 
 /*
