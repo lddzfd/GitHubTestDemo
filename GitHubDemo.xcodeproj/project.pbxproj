@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A0F53BF323771D7B002927BD /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F53BF223771D7B002927BD /* NewViewController.m */; };
+		A0F53BF62377204A002927BD /* NextViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0F53BF52377204A002927BD /* NextViewController.m */; };
 		A4FD99AA224F7FFF0013C52F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A4FD99A9224F7FFF0013C52F /* AppDelegate.m */; };
 		A4FD99AD224F7FFF0013C52F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A4FD99AC224F7FFF0013C52F /* ViewController.m */; };
 		A4FD99B0224F7FFF0013C52F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4FD99AE224F7FFF0013C52F /* Main.storyboard */; };
@@ -38,6 +39,8 @@
 /* Begin PBXFileReference section */
 		A0F53BF123771D7B002927BD /* NewViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
 		A0F53BF223771D7B002927BD /* NewViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
+		A0F53BF42377204A002927BD /* NextViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NextViewController.h; sourceTree = "<group>"; };
+		A0F53BF52377204A002927BD /* NextViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NextViewController.m; sourceTree = "<group>"; };
 		A4FD99A5224F7FFF0013C52F /* GitHubDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitHubDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4FD99A8224F7FFF0013C52F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A4FD99A9224F7FFF0013C52F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -115,6 +118,8 @@
 				A4FD99B7224F80000013C52F /* main.m */,
 				A0F53BF123771D7B002927BD /* NewViewController.h */,
 				A0F53BF223771D7B002927BD /* NewViewController.m */,
+				A0F53BF42377204A002927BD /* NextViewController.h */,
+				A0F53BF52377204A002927BD /* NextViewController.m */,
 			);
 			path = GitHubDemo;
 			sourceTree = "<group>";
@@ -267,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A0F53BF62377204A002927BD /* NextViewController.m in Sources */,
 				A4FD99AD224F7FFF0013C52F /* ViewController.m in Sources */,
 				A4FD99B8224F80000013C52F /* main.m in Sources */,
 				A4FD99AA224F7FFF0013C52F /* AppDelegate.m in Sources */,
