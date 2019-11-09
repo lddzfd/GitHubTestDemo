@@ -1,26 +1,22 @@
 //
-//  NewViewController.m
+//  NextViewController.m
 //  GitHubDemo
 //
 //  Created by 李洞洞 on 2019/11/10.
 //  Copyright © 2019 张方铎. All rights reserved.
 //
 
-#import "NewViewController.h"
+#import "NextViewController.h"
 
-@interface NewViewController ()
+@interface NextViewController ()
 
 @end
 
-@implementation NewViewController
+@implementation NextViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-
-    NSLog(@"用来测试版本回退...");
-    NSLog(@"回退了版本继续开发...");
-
 }
 
 /*
