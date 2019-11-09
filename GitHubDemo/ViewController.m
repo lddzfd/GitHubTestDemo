@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "LDD.h"
 @interface ViewController ()
 
 @end
@@ -16,7 +16,12 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"这是一个打印");
+    //NSLog(@"这是一个打印");
+    LDD * ldd = [[LDD alloc]init];
+    
+    dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(2 * NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
+        LDD * ldd = [[LDD alloc]init];
+    });
 }
 
 - (void)ld_testGit
