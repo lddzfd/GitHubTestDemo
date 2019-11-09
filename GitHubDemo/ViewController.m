@@ -10,37 +10,25 @@
 
 @interface ViewController ()
 
-
-
-
-
-
-
-
 @end
 
 @implementation ViewController
 
 - (void)viewDidLoad {
-    
-    
     [super viewDidLoad];
     NSLog(@"这是一个打印");
-    
-    
-    
-    
-    
 }
 
 - (void)ld_testGit
 {
+    
+    
+    
+    
     NSLog(@"%s",__func__);
-}
-- (void)zfdTest{
     
     
-NSLog(@"9999999");
-    NSLog(@"9999999");
+    
+    
 }
 @end
